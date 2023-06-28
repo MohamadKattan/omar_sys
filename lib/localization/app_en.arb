@@ -1,0 +1,1601 @@
+{
+  "appTitle": "omar_system",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "noInternetConnection": "It seems that you are not connected to the Internet, please check and try again.",
+  "@noInternetConnection": {
+    "description": "noInternetConnection"
+  },
+  "againToExit": "Press again to exit the application",
+  "@againToExit": {
+    "description": "againToExit"
+  },
+  "lastOffers": "Featured Courses",
+  "@lastOffers": {
+    "description": "lastOffers"
+  },
+  "lastProduct": "Latest Courses",
+  "@lastProduct": {
+    "description": "lastProduct"
+  },
+  "restFilter": "Reset filter",
+  "@restFilter": {
+    "description": "restFilter"
+  },
+  "subCat": "SubCat",
+  "@subCat": {
+    "description": "subCat"
+  },
+  "priceLimit": "Price range",
+  "@priceLimit": {
+    "description": "priceLimit"
+  },
+  "from": "From",
+  "@from": {
+    "description": "from"
+  },
+  "to": "To",
+  "@to": {
+    "description": "to"
+  },
+  "filterResult": "Filter results",
+  "@filterResult": {
+    "description": "filterResult"
+  },
+  "futProduct": "Featured Courses",
+  "@futProduct": {
+    "description": "futProduct"
+  },
+  "connectedToTheInternet": "Connected To The Internet",
+  "@connectedToTheInternet": {
+    "description": "connectedToTheInternet"
+  },
+  "choseCurrency": "Choose currency",
+  "@choseCurrency": {
+    "description": "choseCurrency"
+  },
+  "choseLang": "Choose the language",
+  "@choseLang": {
+    "description": "choseLang"
+  },
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "editProfile"
+  },
+
+  "areYouSure": "Are you sure",
+  "@areYouSure": {
+    "description": "areYouSure"
+  },
+  "doYouWantToOutOfPage": "Do you want to exit the page",
+  "@doYouWantToOutOfPage": {
+    "description": "doYouWantToOutOfPage"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "yes"
+  },
+  "no": "No",
+  "@no": {
+    "description": "no"
+  },
+
+
+  "editingYourProfile": "Editing your profile..",
+  "@editingYourProfile": {
+    "description": "editingYourProfile"
+  },
+  "update": "Update",
+  "@update": {
+    "description": "update"
+  },
+  "profileUpdateSuccessfully": "The profile has been modified successfully..",
+  "@profileUpdateSuccessfully": {
+    "description": "profileUpdateSuccessfully"
+  },
+  "somethingsWrong": "Something went wrong.. Please check the entered information and try again",
+  "@somethingsWrong": {
+    "description": "somethingsWrong"
+  },
+  "somethingsWrongTryAgain": "Something went wrong, please try again..",
+  "@somethingsWrongTryAgain": {
+    "description": "somethingsWrongTryAgain"
+  },
+
+  "pleaseConfirmEmailToUseApp": "Please confirm your email to be able use app",
+  "@pleaseConfirmEmailToUseApp": {
+    "description": "pleaseConfirmEmailToUseApp"
+  },
+  "pleaseConfirmEmail": "'Please confirm your email'",
+  "@pleaseConfirmEmail": {
+    "description": "pleaseConfirmEmail"
+  },
+  "confirmEmailSent": "We have sent an email to your email with the verification code",
+  "@confirmEmailSent": {
+    "description": "confirmEmailSent"
+  },
+  "confirmYourAccountNow": "Confirm Account Now",
+  "@confirmYourAccountNow": {
+    "description": "confirmYourAccountNow"
+  },
+  "confirmNow": "Confirm now",
+  "@confirmNow": {
+    "description": "confirmNow"
+  },
+  "yourAccountUnconfirmed": "Your account is not confirmed",
+  "@yourAccountUnconfirmed": {
+    "description": "yourAccountUnconfirmed"
+  },
+  "myOrders": "My Orders",
+  "@myOrders": {
+    "description": "yourAccountUnconfirmed"
+  },
+  "myAddress": "My Address",
+  "@myAddress": {
+    "description": "myAddress"
+  },
+  "appLanguage": "App language",
+  "@appLanguage": {
+    "description": "appLanguage"
+  },
+  "appCurrency": "App Currency",
+  "@appCurrency": {
+    "description": "appCurrency"
+  },
+  "changePassword": "Change Password",
+  "@changePassword": {
+    "description": "changePassword"
+  },
+  "youCanChangePasswordFromHere": "You can change your account password from here",
+  "@youCanChangePasswordFromHere": {
+    "description": "youCanChangePasswordFromHere"
+  },
+  "yourSessionHasExpiredPleaseLogin": "Your session has expired Please login again..",
+  "@yourSessionHasExpiredPleaseLogin": {
+    "description": "yourSessionHasExpiredPleaseLogin"
+  },
+  "searchResult": "Search results",
+  "@searchResult": {
+    "description": "searchResult"
+  },
+  "startSearching": "Start a search",
+  "@startSearching": {
+    "description": "startSearching"
+  },
+  "searchForProduct": "Search for Courses",
+  "@searchForProduct": {
+    "description": "searchForProduct"
+  },
+  "noResultForThisSearch": "No results for this search",
+  "@noResultForThisSearch": {
+    "description": "noResultForThisSearch"
+  },
+  "noMoreToSeeHere": "** There's no more to show here **",
+  "@noMoreToSeeHere": {
+    "description": "noMoreToSeeHere"
+  },
+  "showPassword": "Show password",
+  "@showPassword": {
+    "description": "showPassword"
+  },
+  "rememberMe": "Remember me",
+  "@rememberMe": {
+    "description": "rememberMe"
+  },
+  "passwordChangedSuccessfully": "Password changed successfully",
+  "@passwordChangedSuccessfully": {
+    "description": "passwordChangedSuccessfully"
+  },
+
+  "pleaseEnterPass": "Please enter the password",
+  "@pleaseEnterPass": {
+    "description": "pleaseEnterPass"
+  },
+  "passWord": "Password",
+  "@passWord": {
+    "description": "passWord"
+  },
+  "enterYourPass": "Enter your password",
+  "@enterYourPass": {
+    "description": "enterYourPass"
+  },
+
+  "confirmYourPassAgain": "Confirm password",
+  "@confirmYourPassAgain": {
+    "description": "confirmYourPassAgain"
+  },
+  "enterYourPassAgain": "Enter your password again",
+  "@enterYourPassAgain": {
+    "description": "enterYourPassAgain"
+  },
+
+  "pleaseConfirmNewPass": "Please confirm the new password.",
+  "@pleaseConfirmNewPass": {
+    "description": "pleaseConfirmNewPass"
+  },
+  "passwordUnMatch": "Password does not match",
+  "@passwordUnMatch": {
+    "description": "passwordUnMatch"
+  },
+
+  "confirmNewPassword": "Confirm new password",
+  "@confirmNewPassword": {
+    "description": "confirmNewPassword"
+  },
+  "enterNewPassAgain": "Enter the new password again",
+  "@enterNewPassAgain": {
+    "description": "enterNewPassAgain"
+  },
+
+  "pleaseEnterNewPassAgain": "Please enter the new password",
+  "@pleaseEnterNewPassAgain": {
+    "description": "pleaseEnterNewPassAgain"
+  },
+  "passMustContainEight": "The password is too short, it must contain at least 8 letters and numbers",
+  "@passMustContainEight": {
+    "description": "passMustContainEight"
+  },
+
+  "newPass": "New password",
+  "@newPass": {
+    "description": "newPass"
+  },
+  "enterNewPass": "Enter the new password",
+  "@enterNewPass": {
+    "description": "enterNewPass"
+  },
+  "pleaseEnterOldPass": "Please enter the old password",
+  "@pleaseEnterOldPass": {
+    "description": "pleaseEnterOldPass"
+  },
+
+  "oldPassword": "Old password",
+  "@oldPassword": {
+    "description": "oldPassword"
+  },
+  "enterYourOldPassword": "Enter your old password",
+  "@enterYourOldPassword": {
+    "description": "enterYourOldPassword"
+  },
+
+  "choseAddress": "Chose Address",
+  "@choseAddress": {
+    "description": "choseAddress"
+  },
+  "useMyAddress": "Use My Address",
+  "@useMyAddress": {
+    "description": "useMyAddress"
+  },
+  "chosePaymentMethod": "Chose Payment Method",
+  "@chosePaymentMethod": {
+    "description": "chosePaymentMethod"
+  },
+  "byCustomerService": "By Customer Service",
+  "@byCustomerService": {
+    "description": "byCustomerService"
+  },
+  "debitMasterCard": "Debit / MasterCard",
+  "@debitMasterCard": {
+    "description": "debitMasterCard"
+  },
+  "confirmOrder": "Confirm Order",
+  "@confirmOrder": {
+    "description": "confirmOrder"
+  },
+
+  "ordering": "The order is completed..",
+  "@ordering": {
+    "description": "ordering"
+  },
+  "orderDoneSuccess": "The order was completed successfully..",
+  "@orderDoneSuccess": {
+    "description": "orderDoneSuccess"
+  },
+  "somethingsWrongWithOrder": "An error occurred while completing your order.. Please check the entered information and try again",  "thanksForOrdering": "Thanks for ordering",
+  "@somethingsWrongWithOrder": {
+    "description": "somethingsWrongWithOrder"
+  },
+  "yourOrderHasBeenRegistered": "Your order has been registered, it will be processed and shipped to you as soon as possible",
+  "@yourOrderHasBeenRegistered": {
+    "description": "yourOrderHasBeenRegistered"
+  },
+
+  "lastName": "Last name",
+  "@lastName": {
+    "description": "lastName"
+  },
+  "firstName": "First name",
+  "@firstName": {
+    "description": "firstName"
+  },
+
+  "pleaseEnterUserName": "Please enter the user name",
+  "@pleaseEnterUserName": {
+    "description": "pleaseEnterUserName"
+  },
+  "userName": "Username",
+  "@userName": {
+    "description": "userName"
+  },
+  "enterUserName": "Enter the username",
+  "@enterUserName": {
+    "description": "enterUserName"
+  },
+
+  "pleaseEnterSubjectTitle": "Please enter a subject title",
+  "@pleaseEnterSubjectTitle": {
+    "description": "pleaseEnterSubjectTitle"
+  },
+
+  "subject": "Subject",
+  "@subject": {
+    "description": "subject"
+  },
+  "subjectTitle": "Please enter a topic title",
+  "@subjectTitle": {
+    "description": "subjectTitle"
+  },
+
+  "pleaseEnterMessageContent": "Please enter the message text",
+  "@pleaseEnterMessageContent": {
+    "description": "pleaseEnterMessageContent"
+  },
+  "messageContent": "Your Message Content",
+  "@messageContent": {
+    "description": "messageContent"
+  },
+  "enterMessageContent": "Enter the description of your problem or request",
+  "@enterMessageContent": {
+    "description": "enterMessageContent"
+  },
+
+  "pleaseEnterAddress": "Please enter a valid address",
+  "@pleaseEnterAddress": {
+    "description": "pleaseEnterAddress"
+  },
+  "address": "address",
+  "@address": {
+    "description": "address"
+  },
+  "addYourAddressInDetails": "Enter your address in detail",
+  "@addYourAddressInDetails": {
+    "description": "addYourAddressInDetails"
+  },
+
+  "pleaseEnterCountry": "Please enter a valid country name",
+  "@pleaseEnterCountry": {
+    "description": "pleaseEnterCountry"
+  },
+  "country": "Country",
+  "@country": {
+    "description": "country"
+  },
+  "enterCountry": "Enter the name of the country",
+  "@enterCountry": {
+    "description": "enterCountry"
+  },
+
+  "pleaseEnterState": "Please enter a valid State name",
+  "@pleaseEnterState": {
+    "description": "pleaseEnterState"
+  },
+  "state": "State",
+  "@state": {
+    "description": "state"
+  },
+  "enterState": "Enter the name of the State",
+  "@enterState": {
+    "description": "enterState"
+  },
+
+  "pleaseEnterCity": "Please enter a valid city name",
+  "@pleaseEnterCity": {
+    "description": "pleaseEnterCity"
+  },
+  "city": "City",
+  "@city": {
+    "description": "city"
+  },
+  "enterCity": "Enter the name of the city",
+  "@enterCity": {
+    "description": "enterCity"
+  },
+  "pleaseEnterZipCode": "Please enter a valid zip code",
+  "@pleaseEnterZipCode": {
+    "description": "pleaseEnterZipCode"
+  },
+  "zipCode": "Zip code",
+  "@zipCode": {
+    "description": "zipCode"
+  },
+  "enterZipCode": "Enter the Zip Code",
+  "@enterZipCode": {
+    "description": "enterZipCode"
+  },
+
+  "enterPhoneNumber": "Phone number",
+  "@enterPhoneNumber": {
+    "description": "enterPhoneNumber"
+  },
+
+  "pleasePhoneNumber": "Please type the number without 0 or the country code",
+  "@pleasePhoneNumber": {
+    "description": "pleasePhoneNumber"
+  },
+
+  "pleaseEnterEmail": "Please enter your email",
+  "@pleaseEnterEmail": {
+    "description": "pleaseEnterEmail"
+  },
+
+  "pleaseEnterValidEmail": "Please enter a valid email",
+  "@pleaseEnterValidEmail": {
+    "description": "pleaseEnterValidEmail"
+  },
+  "email": "E-mail",
+  "@email": {
+    "description": "email"
+  },
+
+  "enterYourEmail": "Enter your email",
+  "@enterYourEmail": {
+    "description": "enterYourEmail"
+  },
+
+  "contactUs": "Contact us",
+  "@contactUs": {
+    "description": "contactUs"
+  },
+
+  "contactUsDes": "Do you have any additional request \n or face any problem while using the application?",
+  "@contactUsDes": {
+    "description": "contactUsDes"
+  },
+
+  "weWillContactYou": "Register your request or problem and our team will contact you within 24 hours",
+  "@weWillContactYou": {
+    "description": "weWillContactYou"
+  },
+
+  "thanksForContact": "Thank you for your interest in contacting us",
+  "@thanksForContact": {
+    "description": "thanksForContact"
+  },
+
+  "sendRequest": "Send the request",
+  "@sendRequest": {
+    "description": "sendRequest"
+  },
+
+  "sendRequestSuccessfully": "Your request has been successfully sent.. We will contact you shortly",
+  "@sendRequestSuccessfully": {
+    "description": "sendRequestSuccessfully"
+  },
+
+  "forgetYourPassword": "Forgot your password?",
+  "@forgetYourPassword": {
+    "description": "forgetYourPassword"
+  },
+
+  "forgetYourPasswordDes": "Enter your email\n and we will send a link to reset your password",
+  "@forgetYourPasswordDes": {
+    "description": "forgetYourPasswordDes"
+  },
+
+  "continues": "Continue",
+  "@continues": {
+    "description": "continues"
+  },
+
+  "restPasswordEmailSent": "A message has been sent to your email with a link to reset your password",
+  "@restPasswordEmailSent": {
+    "description": "restPasswordEmailSent"
+  },
+
+  "restPasswordEmailDidntSent": "Your email is not already registered with us, or you entered the wrong way, please check and try again",
+  "@restPasswordEmailDidntSent": {
+    "description": "restPasswordEmailDidntSent"
+  },
+
+  "noAccount": "Do not have an account?",
+  "@noAccount": {
+    "description": "noAccount"
+  },
+
+  "makeNewAccount": "Register a new account",
+  "@makeNewAccount": {
+    "description": "makeNewAccount"
+  },
+
+  "confirmAccount": "Confirm account",
+  "@confirmAccount": {
+    "description": "confirmAccount"
+  },
+
+  "enterOpt": "Please enter the verification code",
+  "@enterOpt": {
+    "description": "enterOpt"
+  },
+  "shortOpt": "Verification code is too short, must contain at least 6 digits",
+  "@shortOpt": {
+    "description": "shortOpt"
+  },
+
+  "opt": "Verification code",
+  "@opt": {
+    "description": "opt"
+  },
+
+  "signIn": "Sign in",
+  "@signIn": {
+    "description": "signIn"
+  },
+
+  "createAccount": "Register a new account",
+  "@createAccount": {
+    "description": "createAccount"
+  },
+
+  "makeSurePassANdEmail": "Please make sure that the email and password are correct",
+  "@makeSurePassANdEmail": {
+    "description": "makeSurePassANdEmail"
+  },
+
+  "description": "Description",
+  "@description": {
+    "description": "description"
+  },
+
+  "variables": "Available options",
+  "@variables": {
+    "description": "variables"
+  },
+
+  "total": "Total :",
+  "@total": {
+    "description": "total"
+  },
+
+  "checkOut": "Check Out",
+  "@checkOut": {
+    "description": "checkOut"
+  },
+
+  "quantity": "Quantity",
+  "@quantity": {
+    "description": "quantity"
+  },
+
+  "availableQuantity": "Available Quantity",
+  "@availableQuantity": {
+    "description": "availableQuantity"
+  },
+
+  "maxAvailableQuantity": "This is the largest amount of this Courses currently available",
+  "@maxAvailableQuantity": {
+    "description": "maxAvailableQuantity"
+  },
+
+  "addedToCard": "Added to cart successfully",
+  "@addedToCard": {
+    "description": "addedToCard"
+  },
+
+  "addToCard": "Add to cart",
+  "@addToCard": {
+    "description": "addToCard"
+  },
+
+  "goToCart": "Go to cart",
+  "@goToCart": {
+    "description": "goToCart"
+  },
+
+  "continueShopping": "Continue shopping",
+  "@continueShopping": {
+    "description": "continueShopping"
+  },
+
+  "youMustSignINToAddCard": "You must be logged in to be able to add to cart",
+  "@youMustSignINToAddCard": {
+    "description": "youMustSignINToAddCard"
+  },
+
+  "reviews": "Reviews",
+  "@reviews": {
+    "description": "reviews"
+  },
+  "relatedProduct": "Similar Courses",
+  "@relatedProduct": {
+    "description": "relatedProduct"
+  },
+
+  "noProduct": "Something went wrong or the Courses you are looking for is not available, please try again or contact us directly .. Thank you for your understanding",
+  "@noProduct": {
+    "description": "noProduct"
+  },
+
+  "notSignInYet": "You are not logged in yet",
+  "@notSignInYet": {
+    "description": "notSignInYet"
+  },
+
+  "signInOrSignUpToStart": "Sign in or create a new account to start shopping",
+  "@signInOrSignUpToStart": {
+    "description": "signInOrSignUpToStart"
+  },
+
+  "noCatToShow": "There are no categories to display here",
+  "@noCatToShow": {
+    "description": "noCatToShow"
+  },
+
+  "noProductToShow": "No Courses to display here",
+  "@noProductToShow": {
+    "description": "noProductToShow"
+  },
+
+  "noProductToShowDes": "You seem using a very small search scope",
+  "@noProductToShowDes": {
+    "description": "noProductToShowDes"
+  },
+
+  "showMore": "See more",
+  "@showMore": {
+    "description": "showMore"
+  },
+
+  "orderId": "Order Id:",
+  "@orderId": {
+    "description": "orderId"
+  },
+
+  "orderTime": "Order Time :",
+  "@orderTime": {
+    "description": "orderTime"
+  },
+
+  "paymentMethod": "Payment Method",
+  "@paymentMethod": {
+    "description": "paymentMethod"
+  },
+
+  "shippingAddress": "Shipping Address",
+  "@shippingAddress": {
+    "description": "shippingAddress"
+  },
+
+  "shippingPrice": "Shipping Price:",
+  "@shippingPrice": {
+    "description": "shippingPrice"
+  },
+
+  "status": "Status:",
+  "@status": {
+    "description": "status"
+  },
+
+  "orderDetails": "Order Details",
+  "@orderDetails": {
+    "description": "orderDetails"
+  },
+
+  "seller": "Seller :",
+  "@seller": {
+    "description": "seller"
+  },
+  "termsConditions": "Terms & Conditions",
+  "@termsConditions": {
+    "description": "termsConditions"
+  },
+
+  "adWithUs": "Advertise with us",
+  "@adWithUs": {
+    "description": "adWithUs"
+  },
+
+  "whoWeAre": "Who We Are",
+  "@whoWeAre": {
+    "description": "whoWeAre"
+  },
+
+  "welcomeAgain": "Welcome back",
+  "@welcomeAgain": {
+    "description": "welcomeAgain"
+  },
+
+  "welcomeAgainDes": "Register by entering your email address and password",
+  "@welcomeAgainDes": {
+    "description": "welcomeAgainDes"
+  },
+
+  "createNewAccount": "Register a new account",
+  "@createNewAccount": {
+    "description": "createNewAccount"
+  },
+
+  "createNewAccountDes": "Register a new account by entering your email and password",
+  "@createNewAccountDes": {
+    "description": "createNewAccountDes"
+  },
+
+  "termsConditionsAccept": "When you sign up you agree to\n our Privacy Policy",
+  "@termsConditionsAccept": {
+    "description": "termsConditionsAccept"
+  },
+
+  "unitPrice": "Unit price :",
+  "@unitPrice": {
+    "description": "unitPrice"
+  },
+
+  "totalPrice": "Total price :",
+  "@totalPrice": {
+    "description": "totalPrice"
+  },
+
+  "shoppingBag": "Shopping Bag",
+  "@shoppingBag": {
+    "description": "shoppingBag"
+  },
+
+  "signInToStartAddToCard": "Welcome.. Log in to be able to add to cart",
+  "@signInToStartAddToCard": {
+    "description": "signInToStartAddToCard"
+  },
+  "emptyShopCard": "You haven't added any items to cart yet",
+  "@emptyShopCard": {
+    "description": "emptyShopCard"
+  },
+
+  "setting": "Setting",
+  "@setting": {
+    "description": "setting"
+  },
+
+  "changePass": "Change password",
+  "@changePass": {
+    "description": "changePass"
+  },
+
+  "signOut": "SignOut",
+  "@signOut": {
+    "description": "signOut"
+  },
+
+  "editAddress": "Edit address",
+  "@editAddress": {
+    "description": "editAddress"
+  },
+
+  "editingAddress": "Editing address..",
+  "@editingAddress": {
+    "description": "editingAddress"
+  },
+
+  "editingAddressDone": "Address has been modified successfully..",
+  "@editingAddressDone": {
+    "description": "editingAddressDone"
+  },
+
+  "showDetails": "Show Details",
+  "@showDetails": {
+    "description": "showDetails"
+  },
+
+  "categories": "Categories",
+  "@categories": {
+    "description": "categories"
+  },
+
+  "home": "Home",
+  "@home": {
+    "description": "home"
+  },
+
+  "account": "Account",
+  "@account": {
+    "description": "account"
+  },
+
+  "myCourses": "My Courses",
+  "@myCourses": {
+    "description": "myCourses"
+  },
+
+  "cart": "Cart",
+  "@cart": {
+    "description": "cart"
+  },
+
+  "newAccountTitle": "Develop your skills from anywhere!",
+  "@newAccountTitle": {
+    "description": "newAccountTitle"
+  },
+
+  "newAccountDes": "Log in to get started",
+  "@newAccountDes": {
+    "description": "newAccountDes"
+  },
+
+  "newAccount": "New Account",
+  "@newAccount": {
+    "description": "newAccount"
+  },
+
+  "whatAreLookingFor": "What are you looking for ?",
+  "@whatAreLookingFor": {
+    "description": "whatAreLookingFor"
+  },
+
+  "featuredCourses": "Featured Courses",
+  "@featuredCourses": {
+    "description": "featuredCourses"
+  },
+
+  "newCourses": "New Courses",
+  "@newCourses": {
+    "description": "newCourses"
+  },
+
+  "liveCourses": "Live Courses",
+  "@liveCourses": {
+    "description": "liveCourses"
+  },
+
+  "blogPosts": "Blog Posts",
+  "@blogPosts": {
+    "description": "blogPosts"
+  },
+
+  "readMore": "Read More",
+  "@readMore": {
+    "description": "readMore"
+  },
+
+  "live": "Live",
+  "@live": {
+    "description": "live"
+  },
+
+  "weHaveProblem": "Looks like we're having a problem right now, please try again later",
+  "@weHaveProblem": {
+    "description": "weHaveProblem"
+  },
+
+  "coursesList": "Courses",
+  "@coursesList": {
+    "description": "coursesList"
+  },
+
+  "weHaveErrorMsg": "Looks like we're having a problem right now",
+  "@weHaveErrorMsg": {
+    "description": "weHaveErrorMsg"
+  },
+  
+  "weHaveErrorDes": "It is possible that there is a problem or that the platform is currently under maintenance, try again by refreshing the page shortly, thank you for your understanding",
+  "@weHaveErrorDes": {
+    "description": "weHaveErrorDes"
+  },
+
+  "coursesDetails": "Course details",
+  "@coursesDetails": {
+    "description": "coursesDetails"
+  },
+
+  "thisCoursesDetails": "about this course?",
+  "@thisCoursesDetails": {
+    "description": "thisCoursesDetails"
+  },
+
+  "requirements": "Attendance requirements ?",
+  "@requirements": {
+    "description": "requirements"
+  },
+
+  "benefits": "Benefit from the course?",
+  "@benefits": {
+    "description": "benefits"
+  },
+
+  "certificate": "Completion certificate",
+  "@certificate": {
+    "description": "certificate"
+  },
+
+  "liveLecture": "Live lectures",
+  "@liveLecture": {
+    "description": "liveLecture"
+  },
+
+  "liveAndRecordedLecture": "Recorded and live lectures",
+  "@liveAndRecordedLecture": {
+    "description": "liveAndRecordedLecture"
+  },
+
+  "recordedLecture": "Recorded lectures",
+  "@recordedLecture": {
+    "description": "recordedLecture"
+  },
+
+  "lecture": "Lectures",
+  "@lecture": {
+    "description": "lecture"
+  },
+
+  "lectureList": "Course topics",
+  "@lectureList": {
+    "description": "lectureList"
+  },
+
+  "relatedCourse": "Related courses",
+  "@relatedCourse": {
+    "description": "relatedCourse"
+  },
+
+  "noCourseRegisterYet": "You have not yet registered for any course",
+  "@noCourseRegisterYet": {
+    "description": "noCourseRegisterYet"
+  },
+
+  "noCourseRegisterYetDes": "Check out the training courses, and start developing your skills",
+  "@noCourseRegisterYetDes": {
+    "description": "noCourseRegisterYetDes"
+  },
+
+  "seeCategory": "Browse courses",
+  "@seeCategory": {
+    "description": "seeCategory"
+  },
+
+  "noItemsInCart": "You haven't added anything yet",
+  "@noItemsInCart": {
+    "description": "noItemsInCart"
+  },
+
+  "cartItems": "Cart Items",
+  "@cartItems": {
+    "description": "cartItems"
+  },
+
+  "orientalPrice": "Original Price",
+  "@orientalPrice": {
+    "description": "orientalPrice"
+  },
+
+  "completeOrder": "Complete Order",
+  "@completeOrder": {
+    "description": "completeOrder"
+  },
+
+  "finalPrice": "Final price",
+  "@finalPrice": {
+    "description": "finalPrice"
+  },
+
+  "free": "Free",
+  "@free": {
+    "description": "free"
+  },
+
+  "inCart": "In cart",
+  "@inCart": {
+    "description": "inCart"
+  },
+
+  "orderInReview": "Your request is under review",
+  "@orderInReview": {
+    "description": "orderInReview"
+  },
+
+  "courseContinue": "Complete course",
+  "@courseContinue": {
+    "description": "courseContinue"
+  },
+
+  "completeCheckOut": "Complete Order",
+  "@completeCheckOut": {
+    "description": "completeCheckOut"
+  },
+
+  "offlinePayment": "By contacting us",
+  "@offlinePayment": {
+    "description": "offlinePayment"
+  },
+
+  "cartPayment": "Pay online",
+  "@cartPayment": {
+    "description": "cartPayment"
+  },
+
+  "offlineOrderDes": "Enter your phone number to be able to contact you after completing the order",
+  "@offlineOrderDes": {
+    "description": "offlineOrderDes"
+  },
+
+  "note": "Notes",
+  "@note": {
+    "description": "note"
+  },
+
+  "addNote": "Enter your notes",
+  "@addNote": {
+    "description": "addNote"
+  },
+
+  "orderDone": "Your request has been registered successfully",
+  "@orderDone": {
+    "description": "orderDone"
+  },
+
+  "orderDoneDes": "Our team will contact you and confirm the order within 24 hours, but if you pay by card, you will be able to start attending directly",
+  "@orderDoneDes": {
+    "description": "orderDoneDes"
+  },
+
+  "yourOrderInReview": "Your Order In Review",
+  "@yourOrderInReview": {
+    "description": "yourOrderInReview"
+  },
+
+  "goToPayment": "Go To Payment",
+  "@goToPayment": {
+    "description": "goToPayment"
+  },
+
+  "notification": "Notification",
+  "@notification": {
+    "description": "notification"
+  },
+
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "darkMode"
+  },
+
+  "lightMode": "Light Mode",
+  "@lightMode": {
+    "description": "lightMode"
+  },
+
+  "autoDarkMode": "Automatic",
+  "@autoDarkMode": {
+    "description": "autoDarkMode"
+  },
+
+  "choseThemeMode": "Chose Theme Mode",
+  "@choseThemeMode": {
+    "description": "choseThemeMode"
+  },
+
+  "confirmEmail": "Email confirmation",
+  "@confirmEmail": {
+    "description": "confirmEmail"
+  },
+
+  "confirmEmailDes": "We have sent a verification code to your Email address: ",
+  "@confirmEmailDes": {
+    "description": "confirmEmailDes"
+  },
+
+  "youCanRequestAgainIn": "You can request a code again after  ",
+  "@youCanRequestAgainIn": {
+    "description": "youCanRequestAgainIn"
+  },
+
+  "sendCodeAgain": "Send again",
+  "@sendCodeAgain": {
+    "description": "sendCodeAgain"
+  },
+
+  "emailConfirmDone": "Email has been confirmed successfully",
+  "@emailConfirmDone": {
+    "description": "emailConfirmDone"
+  },
+
+  "show": "Preview",
+  "@show": {
+    "description": "show"
+  },
+  
+  "next": "Complete and continue",
+  "@next": {
+    "description": "next"
+  },
+
+  "preview": "Preview",
+  "@preview": {
+    "description": "preview"
+  },
+  
+  "completedPercent": "Completion Percentage",
+  "@completedPercent": {
+    "description": "completedPercent"
+  },
+
+  "completeCourse": "Complete Course",
+  "@completeCourse": {
+    "description": "completeCourse"
+  },
+
+  "completed": "Completed",
+  "@completed": {
+    "description": "completed"
+  },
+
+  "yourSessionHasExpired": "Your session has expired, please log in again",
+  "@yourSessionHasExpired": {
+    "description": "yourSessionHasExpired"
+  },
+
+  "noLectureToShow": "there is no lecture to show",
+  "@noLectureToShow": {
+    "description": "noLectureToShow"
+  },
+
+  "attachments": "Attachments",
+  "@attachments": {
+    "description": "attachments"
+  },
+
+  "minute": "Minute",
+  "@minute": {
+    "description": "minute"
+  },
+
+  "quizDuration": "Quiz Duration :",
+  "@quizDuration": {
+    "description": "quizDuration"
+  },
+
+  "totalOfQuestions": "Total of questions :",
+  "@totalOfQuestions": {
+    "description": "totalOfQuestions"
+  },
+
+  "minimumToPassTheTest": "Minimum to pass the test :",
+  "@minimumToPassTheTest": {
+    "description": "minimumToPassTheTest"
+  },
+  "quizStartDes": "The test must be completed in one sitting. You cannot save and finish later.",
+  "@quizStartDes": {
+    "description": "quizStartDes"
+  },
+
+  "quizStart": "Start Quiz",
+  "@quizStart": {
+    "description": "quizStart"
+  },
+
+  "wantToEndQuiz": "Do you want to finish this test?",
+  "@wantToEndQuiz": {
+    "description": "wantToEndQuiz"
+  },
+
+  "remainingTime": "Remaining time",
+  "@remainingTime": {
+    "description": "remainingTime"
+  },
+
+  "noAnswerSelected": "No answer selected yet",
+  "@noAnswerSelected": {
+    "description": "noAnswerSelected"
+  },
+
+  "enterYourAnswer": "Enter Your Answer",
+  "@enterYourAnswer": {
+    "description": "enterYourAnswer"
+  },
+
+  "quizSubmitted": "Quiz Submitted successfully",
+  "@quizSubmitted": {
+    "description": "quizSubmitted"
+  },
+
+  "quizTimeFinish": "Submission time is over",
+  "@quizTimeFinish": {
+    "description": "quizTimeFinish"
+  },
+
+  "quizHasSubmitted": "Quiz Submitted",
+  "@quizHasSubmitted": {
+    "description": "quizHasSubmitted"
+  },
+
+  "instructor": "instructor",
+  "@instructor": {
+    "description": "instructor"
+  },
+
+  "toManagement": "Management Courses\n",
+  "@toManagement": {
+    "description": "toManagement"
+  },
+
+  "decAdminOrHome" : "Hello. 👋 you have access as admin choose from options below.\n If you would to go to your workspace or admin dashboard",
+  "@decAdminOrHome": {
+    "description": "decAdminOrHome"
+  },
+
+  "adminDashBord" : "Admin panel ",
+  "@adminDashBord": {
+    "description": "adminDashBord"
+  },
+
+  "myWorkSpace" : " Work Space",
+  "@myWorkSpace": {
+    "description": "myWorkSpace"
+  },
+
+  "total" : "Total RESULT ",
+  "@total": {
+    "description": "total"
+  },
+
+  "generalInformation" : "General Information",
+  "@generalInformation": {
+    "description": "generalInformation"
+  },
+
+  "todayFollowUp" : "Today\nFollow Up",
+  "@todayFollowUp": {
+    "description": "todayFollowUp"
+  },
+
+  "pandingCalls" : "Pending\nCalls",
+  "@pandingCalls": {
+    "description": "pandingCalls"
+  },
+
+  "waitingForYourCall" : "Waiting For\nYour Call",
+  "@waitingForYourCall": {
+    "description": "waitingForYourCall"
+  },
+
+  "numberOfReg" : "Number\nof Reg",
+  "@numberOfReg": {
+    "description": "numberOfReg"
+  },
+
+  "phoneStatus" : "Phone Status",
+  "@phoneStatus": {
+    "description": "phoneStatus"
+  },
+
+  "answerd" : "Answered",
+  "@answerd": {
+    "description": "answerd"
+  },
+
+  "notReached" : "Not\nReached",
+  "@notReached": {
+    "description": "notReached"
+  },
+
+  "closed" : "Closed",
+  "@closed": {
+    "description": "closed"
+  },
+
+  "customerStatus" : "Customers Status",
+  "@customerStatus": {
+    "description": "customerStatus"
+  },
+  
+  "blanks" : "Blanks",
+  "@blanks": {
+    "description": "blanks"
+  },
+
+  "pendingHasFollowUp" : "Pending & has\nFollow up",
+  "@pendingHasFollowUp": {
+    "description": "pendingHasFollowUp"
+  },
+
+  "interestedHasFollowUp" : "Interested\n&follow up",
+  "@interestedHasFollowUp": {
+    "description": "interestedHasFollowUp"
+  },
+
+  "wrongNumber" : "Wrong Number",
+  "@wrongNumber": {
+    "description": "wrongNumber"
+  },
+
+  "changedHisMind" : "Changed\nHis Mind",
+  "@changedHisMind": {
+    "description": "changedHisMind"
+  },
+
+  "finalResults" : "Final Results",
+  "@finalResults": {
+    "description": "finalResults"
+  },
+
+  "reserved" : "Reserved",
+  "@reserved": {
+    "description": "reserved"
+  },
+
+  "interview" : "Interview",
+  "@interview": {
+    "description": "interview"
+  },
+
+  "pendingApproval" : "Pending\napproval",
+  "@pendingApproval": {
+    "description": "pendingApproval"
+  },
+
+  "noCallAgain" : "Do Not\ncall again",
+  "@noCallAgain": {
+    "description": "noCallAgain"
+  },
+
+  "database" : "Database",
+  "@database": {
+    "description": "database"
+  },
+
+  "goodM" : "Good Morning ",
+  "@goodM": {
+    "description": "goodM"
+  },
+
+  "goodE" : "Good Evening",
+  "@goodE": {
+    "description": "goodE"
+  },
+
+  "homeAdmin" : "Home",
+  "@homeAdmin": {
+    "description": "homeAdmin"
+  },
+
+  "agentsAdmin" : "Agents",
+  "@agentsAdmin": {
+    "description": "agentsAdmin"
+  },
+
+  "agentsReport" : "Agents Reports",
+  "@agentsReport": {
+    "description": "agentsReport"
+  },
+
+  "fillterDsc" : "Fill all fields below\n Then click filter data",
+  "@fillterDsc": {
+    "description": "fillterDsc"
+  },
+
+  "filterData" : "Filter Data",
+  "@filterData": {
+    "description": "filterData"
+  },
+
+  "startDate" : "Start date ",
+  "@startDate": {
+    "description": "startDate"
+  },
+
+  "endDate" : "End date ",
+  "@endDate": {
+    "description": "endDate"
+  },
+
+  "startDateReq" : "Start date is required 😐",
+  "@startDateReq": {
+    "description": "startDateReq"
+  },
+
+  "endDateReq" : "End date is required 😐",
+  "@endDateReq": {
+    "description": "endDateReq"
+  },
+
+  "category" : "Category section is required 😐",
+  "@category": {
+    "description": "category"
+  },
+
+  "bill": "Billing Report",
+  "@bill": {
+    "description": "bill"
+  },
+  "byRegistered": "By Registered",
+  "@byRegistered": {
+    "description": "byRegistered"
+  },
+  
+  "@byRegistered": {
+    "description": "byRegistered"
+  },
+  "talNumberReg": "Total\nNumber reg",
+  "@talNumberReg": {
+    "description": "talNumberReg"
+  },
+  "totalNumberRegPaid": "Total\nNumber Paid",
+  "@totalNumberRegPaid": {
+    "description": "totalNumberRegPaid"
+  },
+  "totalNumberRegUnPaid": "Total\nNumber UnPaid",
+  "@totalNumberRegUnPaid": {
+    "description": "totalNumberRegUnPaid"
+  },
+  "totalCancel": "Total\nCancel",
+  "@totalCancel": {
+    "description": "Total Cancel"
+  },
+  "totalPending": "Total\nPending",
+  "@totalPending": {
+    "description": "totalPending"
+  },
+  "totalActive": "Total Active",
+  "@totalActive": {
+    "description": "totalActive"
+  },
+  "totalStata": "Total Statement ",
+  "@totalStata": {
+    "description": "totalStata"
+  },
+  "totalAm": "Total\nAmount",
+  "@totalAm": {
+    "description": "totalAm"
+  },
+  "paid": "Paid",
+  "@paid": {
+    "description": "paid"
+  },
+  "remainin": "Remaining",
+  "@remainin": {
+    "description": "remainin"
+  },
+  "revenue": "Revenue",
+  "@revenue": {
+    "description": "revenue"
+  },
+  "payCollection": "Payment collection",
+  "@payCollection": {
+    "description": "payCollection"
+  },
+  "netIncome": "Net Income",
+  "@netIncome": {
+    "description": "netIncome"
+  },
+  "summary": "Summary",
+  "@summary": {
+    "description": "summary"
+  },
+  "nofRegistration": "Number\nOf Registration",
+  "@nofRegistration": {
+    "description": "nofRegistration"
+  },
+  "nofCancellation": "Number\nof Cancellation",
+  "@nofCancellation": {
+    "description": "nofCancellation"
+  },
+  "theAmountValue": "The\nAmount Value",
+  "@theAmountValue": {
+    "description": "theAmountValue"
+  },
+  "theAmountValueCan": "The Amount\nValue (Cancellation)",
+  "@theAmountValueCan": {
+    "description": "theAmountValueCan"
+  },
+  "balOfRemainin": "Balance Of Remaining\n(with filter)",
+  "@balOfRemainin": {
+    "description": "balOfRemainin"
+  },
+  "nOfCustomer": "N.of Customer",
+  "@nOfCustomer": {
+    "description": "nOfCustomer"
+  },
+  "balanceValue": "Balance Value",
+  "@balanceValue": {
+    "description": "balanceValue"
+  },
+  "balOfRemaininNoFil": "Balance Of Remaining\n(without filter)",
+  "@balOfRemaininNoFil": {
+    "description": "balOfRemaininNoFil"
+  },
+  "balOfCancelNoFil": "Balance Of Cancellation\n(Total without filter)",
+  "@balOfCancelNoFil": {
+    "description": "balOfCancelNoFil"
+  },
+  "amountCancel": "Amount\nCancel",
+  "@amountCancel": {
+    "description": "amountCancel"
+  },
+  "amountPending": "Amount\npending",
+  "@amountPending": {
+    "description": "amountPending"
+  },
+  "netIncome": "Net\nIncome",
+  "@netIncome": {
+    "description": "netIncome"
+  },
+  "paymentsDue": "Total number\nOf payments due",
+  "@paymentsDue": {
+    "description": "paymentsDue"
+  },
+  "totalNumber": "Total\nnumber",
+  "@totalNumber": {
+    "description": "totalNumber"
+  },
+  "totatFday": "Total for\nThe day",
+  "@totatFday": {
+    "description": "totatFday"
+  },
+  "numberOfOrder": "By number\nOf Order",
+  "@numberOfOrder": {
+    "description": "numberOfOrder"
+  },
+  "totalOrderPaid": "Total number\nOrder Paid",
+  "@totalOrderPaid": {
+    "description": "totalOrderPaid"
+  },
+  "totalNumberOrderRemaining": "Total number\nOrder Remaining",
+  "@totalNumberOrderRemaining": {
+    "description": "totalNumberOrderRemaining"
+  },
+  "byAgents": "Billing Report\nBy agent",
+  "@byAgents": {
+    "description": "byAgents"
+  },
+  "totalPaidA": "Total\nPaid",
+  "@totalPaidA": {
+    "description": "totalPaidA"
+  },
+  "totalRemAg": "Total\nRemaining",
+  "@totalRemAg": {
+    "description": "totalRemAg"
+  },
+  "commision": "Commision",
+  "@commision": {
+    "description": "commision"
+  },
+  "exCommision": "Expected\nCommission",
+  "@exCommision": {
+    "description": "exCommision"
+  },
+  "commisionReservation": "Number\nOf reservation",
+  "@commisionReservation": {
+    "description": "commisionReservation"
+  },
+  "commisionFull": "Number\nOf full payment",
+  "@commisionFull": {
+    "description": "commisionFull"
+  },
+  "commisionRemaining": "Number\nOf has remaining",
+  "@commisionRemaining": {
+    "description": "commisionRemaining"
+  },
+  "mCommision": "Monthly Commission",
+  "@mCommision": {
+    "description": "mCommision"
+  },
+  "commisionThisM": "Commision\nThis month",
+  "@commisionThisM": {
+    "description": "commisionThisM"
+  },
+  "effortTitle": "Effort report",
+  "@effortTitle": {
+    "description": "effortTitle"
+  },
+  "dayEffort": "Daily\neffort",
+  "@dayEffort": {
+    "description": "dayEffort"
+  },
+  "monthEffort": "Monthly\neffort",
+  "@monthEffort": {
+    "description": "monthEffort"
+  },
+  "navEffort": "Effort",
+  "@navEffort": {
+    "description": "navEffort"
+  },
+  "navBilling": "Billing",
+  "@navBilling": {
+    "description": "navBilling"
+  }
+}
