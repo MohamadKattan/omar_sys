@@ -6,7 +6,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 const $appName = 'omar_system';
 const $appLink = 'https://omar.training/';
-const $apiPassword = 'ps4tek_com_Zmnc2dT4C@qusBVmC@6cr6';
+const $apiPassword = 'ps4tek_com_Xncx2dT4C@qusBVmC@7vb7';
 const $currency = '\$';
 
 //  ---------- PaymentMethods ----------//
